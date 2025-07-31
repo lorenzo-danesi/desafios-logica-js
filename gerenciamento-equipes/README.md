@@ -1,6 +1,8 @@
+# Desafio: Gerenciamento de Equipes de Heróis e Vilões
 
-> **Explorando Lógica de Programação com JS** <br>
-> 2 / 2 - Gerenciamento de Equipes de Heróis e Vilões
+**Explorando Lógica de Programação com JS** <br>
+2 / 2 - Gerenciamento de Equipes de Heróis e Vilões <br>
+`Básico` `Princípios Básicos`
 
 ## Descrição
 
