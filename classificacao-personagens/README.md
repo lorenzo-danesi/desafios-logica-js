@@ -1,7 +1,8 @@
+# Desafio: Classificação de Personagens
 
-> **Explorando Lógica de Programação com JS** <br>
-> 1 / 2 - Classificação de Personagens <br>
-> `Básico` `Princípios Básicos`
+**Explorando Lógica de Programação com JS** <br>
+1 / 2 - Classificação de Personagens <br>
+`Básico` `Princípios Básicos`
 
 ## Descrição
 
